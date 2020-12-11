@@ -1,4 +1,5 @@
 # LaunchDarkly OpenAPI definition
+This is an OpenAPI Version 3 example of our OpenAPI docs, created to evaluate Redocly. This is only for testing purposes. 
 
 ## Working on your OpenAPI definition
 
